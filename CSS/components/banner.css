@@ -1,0 +1,9 @@
+.banner {
+	background-image: url(../../images/tennis.jpg);
+	padding: 150px 0px;
+}
+
+.banner h1 {
+	font-size: 55px;
+}
+
